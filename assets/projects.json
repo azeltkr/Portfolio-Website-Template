@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Quantum Web Studio",
+    "shortDescription": "A next-gen web design tool leveraging quantum computing for real-time, hyper-precise layouts.",
+    "details": "Quantum Web Studio allows designers to create websites with unparalleled precision, utilizing quantum algorithms to optimize layout, animations, and user experience in real-time. Integrated with AI-driven feedback, it automatically adapts designs based on user behavior."
+  },
+  {
+    "title": "HoloShop VR",
+    "shortDescription": "A VR e-commerce platform offering immersive 3D shopping experiences.",
+    "details": "HoloShop VR transforms online shopping by allowing users to explore virtual stores in 3D. Products are rendered with photorealistic detail, and users can interact with items using natural gestures. The platform supports seamless integration with major e-commerce platforms."
+  },
+  {
+    "title": "NeuroUI",
+    "shortDescription": "A brain-computer interface for hands-free web navigation.",
+    "details": "NeuroUI revolutionizes web interaction by enabling users to navigate and control websites through brain signals. The project includes a frontend framework that translates neural commands into user actions, compatible with most modern web browsers."
+  },
+  {
+    "title": "Zero-Lag Streaming",
+    "shortDescription": "An ultra-low latency video streaming service for global audiences.",
+    "details": "Zero-Lag Streaming utilizes advanced data compression and distributed networks to provide virtually zero-latency video streaming, even for 8K resolution content. The frontend integrates AI-enhanced buffering and adaptive bitrate technology for smooth playback on any device."
+  },
+  {
+    "title": "MetaHome",
+    "shortDescription": "A personalized smart home dashboard for managing IoT devices with AR support.",
+    "details": "MetaHome allows users to control and monitor all their IoT devices from a single, customizable dashboard. The AR support enables users to view real-time data overlays on physical objects in their home, creating a seamless interaction between digital and physical environments."
+  },
+  {
+    "title": "EcoWeb",
+    "shortDescription": "A sustainable web development framework with energy-efficient algorithms.",
+    "details": "EcoWeb is designed for environmentally conscious developers, featuring tools that minimize energy consumption during web development and browsing. The framework includes lightweight components and green hosting integrations."
+  }
+]
